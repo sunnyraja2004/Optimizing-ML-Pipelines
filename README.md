@@ -6,8 +6,11 @@ This project focuses on solving a binary classification problem using diverse da
 KEY FEATURES
 
 Dataset 1 (Emoticon Sequences): Achieved 93.25% accuracy using Logistic Regression with one-hot encoded features.
+
 Dataset 2 (High-Dimensional Matrices): Implemented dimensionality reduction via PCA and applied Support Vector Machines (SVM), resulting in 99.12% accuracy.
+
 Dataset 3 (Sequential Digits): Designed a Convolutional Neural Network (CNN) to capture spatial and sequential patterns, achieving 87.14% accuracy within parameter constraints.
+
 Combined Dataset Approach: Integrated multiple datasets using feature transformations and trained Logistic Regression and SVM models, reaching a maximum accuracy of 98.51%.
 
 HIGHLIGHTS
@@ -19,5 +22,7 @@ Successfully balanced accuracy, computational efficiency, and model complexity t
 TECHNOLOGIES USED
 
 Languages: Python
+
 Libraries: Scikit-learn, TensorFlow
+
 Techniques: PCA, CNN, Logistic Regression, SVM
